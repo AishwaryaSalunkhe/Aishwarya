@@ -1,0 +1,21 @@
+
+
+	.content_area  {
+		font-size: 14pt;
+		width:45%;
+		float: left;
+		padding-left :1px;
+		     }
+
+	.image {
+		width:40%;
+		float: left;
+		padding-left :40px;
+		}
+
+	.button_group button {
+		font-size: 14pt;
+		padding-left :5px;
+		width:8%;
+		float:right;
+		      }
